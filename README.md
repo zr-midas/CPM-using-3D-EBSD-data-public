@@ -40,6 +40,6 @@ It also includes a script to extract visualisation files from the data file expo
 <!-- MatFlow -->
 ## [MatFlow simulations](./MatFlow-simulations/)
 
-[MatFlow]([./Process-3D-EBSD-for-CPM/](https://docs.matflow.io/stable/)) is an open-source software that merges, via extensions, material simulation kits and libraries to connect the single crystal behaviour to the macroscopic mechanical response of the material. 
+[MatFlow]([https:/docs.matflow.io/stable/) is an open-source software that merges, via extensions, material simulation kits and libraries to connect the single crystal behaviour to the macroscopic mechanical response of the material. 
 
 This folder contains the script used in MatFlow to run cooling CP simulations, as well as some examples of the input files needed (the RVE files produced in [Produce RVE from 3D-EBSD](./Produce-RVE-from-3D-EBSD/)).
